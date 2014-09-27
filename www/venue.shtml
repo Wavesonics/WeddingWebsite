@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<!--
+	Twenty by HTML5 UP	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)-->
+<html>
+  <head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type">
+    <title>Venue</title>
+    <link href="favicon.ico" rel="icon" type="image/x-icon">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
+    <script src="js/jquery.min.js"></script>
+    <script src="js/jquery.dropotron.min.js"></script>
+    <script src="js/jquery.scrolly.min.js"></script>
+    <script src="js/jquery.scrollgress.min.js"></script>
+    <script src="js/skel.min.js"></script>
+    <script src="js/skel-layers.min.js"></script>
+    <script src="js/init.js"></script>
+	
+	<!--#include virtual="/tracking.shtml"-->
+	
+	<noscript>
+			<link rel="stylesheet" href="css/skel.css">
+			<link rel="stylesheet" href="css/style.css">
+			<link rel="stylesheet" href="css/style-wide.css">
+			<link rel="stylesheet" href="css/style-noscript.css">
+	</noscript>
+    <!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
+    <!--[if lte IE 9]><link rel="stylesheet" href="css/ie/v9.css" /><![endif]-->
+  </head>
+  <body class="no-sidebar">
+    <!-- Header -->
+    <header id="header">
+      <h1 id="logo"><a href="index.shtml">adam<span>and</span>stacy<span>.com</span></a></h1>
+      <nav id="nav">
+        <ul>
+          <li class="current"><a href="index.shtml">Welcome</a></li>
+          <li class="submenu"> <a href="">Navigation</a>
+            <ul>
+              <li><a href="venue.shtml">Venue</a></li>
+              <li><a href="guestbook.shtml">Guest Book</a></li>
+              <li><a href="areainfo.shtml">Area Info</a></li>
+              <li><a href="registry.shtml">Registry</a></li>
+              <li><a href="photos.shtml">Photos</a></li>
+              <!--
+              <li class="submenu"> <a href="">Submenu</a>                <ul>
+                  <li><a href="#">Dolore Sed</a></li>                  <li><a href="#">Consequat</a></li>
+                  <li><a href="#">Lorem Magna</a></li>                  <li><a href="#">Sed Magna</a></li>
+                  <li><a href="#">Ipsum Nisl</a></li>                </ul>
+              </li>			  -->
+            </ul>
+          </li>
+          <li><a href="https://docs.google.com/forms/d/1BTEYJDQ2SpZ9O0ladblGQsG3w88jqqOQBO4Nc11-csc/viewform?usp=send_form"
+              class="button special">RSVP</a></li>
+        </ul>
+      </nav>
+    </header>
+    <!-- Main -->
+    <article id="main">
+      <header class="special container"> <span class="icon fa-home"></span>
+        <h2><strong>Wallace Falls</strong> Lodge</h2>
+        <p>Our woodland venue out away from it all</p>
+      </header>
+      <!-- One -->
+      <section class="wrapper style4 container">
+        <!-- Content -->
+        <div class="content">
+          <section> <a href="#" class="image featured"><img src="images/venue/wallace_falls_lodge.jpg"
+                alt="Wallace Falls Lodge"></a>
+            <header>
+              <h3>The Lodge</h3>
+            </header>
+            <p>Wallace Falls Lodge is a family friendly venue featuring ten
+              bedrooms, a home style kitchen, and plenty of space to sit and
+              visit. The grounds include a large lawn, horseshoe pit, fire pit
+              and barbecue grills. The Lodge accommodates up to 28
+              overnight&nbsp; guests. </p>
+          </section>
+          <section>
+            <header>
+              <h3>Location Info</h3>
+            </header>
+            <p><a href="http://www.wallacefallslodge.com/">Wallace Falls Lodge</a><br>
+              14424 Wallace Lake Rd<br>
+              Gold Bar, WA 98251</p>
+            <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+            <div class="map">
+              <div id="gmap_canvas"></div>
+              <style>#gmap_canvas img{max-width:none!important;background:none!important}</style><a
+                class="google-map-code" href="http://www.trivoo.net" id="get-map-data">www.trivoo.net</a></div>
+            <script type="text/javascript"> function init_map(){var myOptions = {zoom:14,center:new google.maps.LatLng(47.8667257,-121.68200690000003),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById("gmap_canvas"), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(47.8667257, -121.68200690000003)});infowindow = new google.maps.InfoWindow({content:"<b>Wallace Falls Lodge</b><br/><a href=\"https://www.google.com/maps/place/Wallace+Falls+Lodge/@47.866867,-121.682003,17z/data=!3m1!4b1!4m2!3m1!1s0x549abc4e158e5b87:0xd0f77ac1525f0980\">14424 Wallace Lake Rd<br/>Gold Bar, WA 98251</a>" });google.maps.event.addListener(marker, "click", function(){infowindow.open(map,marker);});}google.maps.event.addDomListener(window, 'load', init_map);</script>
+          </section>
+        </div>
+      </section>
+      <!-- Two -->
+      <section class="wrapper style1 container special">
+        <div class="row">
+          <div class="4u">
+            <section>
+              <header>
+                <h3>A hot tub built for six!</h3>
+              </header>
+              <p>That's right! All of our guests who are staying with us at the
+                Lodge are welcome to use the outdoor hot tub on the deck!</p>
+              <footer>
+                <ul class="buttons">
+                  <li><a href="#" class="button small">Learn More</a></li>
+                </ul>
+              </footer>
+            </section>
+          </div>
+          <div class="4u">
+            <section>
+              <header>
+                <h3>About the area</h3>
+              </header>
+              <p>There's lots of stuff to do in the Gold Bar area, we've put
+                together some info to help out!</p>
+              <footer>
+                <ul class="buttons">
+                  <li><a href="areainfo.shtml" class="button small">Learn More</a></li>
+                </ul>
+              </footer>
+            </section>
+          </div>
+          <div class="4u">
+            <section>
+              <header>
+                <h3>Share the house, not the bathroom</h3>
+              </header>
+              <p>Unlike most large vacation rental homes, Wallace Falls Lodge
+                has a private bathroom and shower in each room. Hooray!</p>
+              <footer>
+                <ul class="buttons">
+                  <li><a href="#" class="button small">Learn More</a></li>
+                </ul>
+              </footer>
+            </section>
+          </div>
+        </div>
+      </section>
+    </article>
+    <!-- Footer -->
+    <footer id="footer">
+      <ul class="icons">
+        <li> <a href="https://twitter.com/search?f=realtime&amp;q=%23adamandstacywedding"
+            class="icon circle fa-twitter"><span class="label">Twitter</span></a><br>
+        </li>
+        <li> <a href="https://www.facebook.com/" class="icon circle fa-facebook"><span
+              class="label">Facebook</span></a><br>
+        </li>
+        <li> <a href="https://plus.google.com/+AdamBrownW" class="icon circle fa-google-plus"><span
+              class="label">Google+</span></a><br>
+        </li>
+      </ul>
+      <ul class="copyright">
+        <li>© adamandstacy.com</li>
+        <li>Design: <a href="http://html5up.net">HTML5 UP</a> as well as Stacy
+          and Adam</li>
+      </ul>
+    </footer>
+  </body>
+</html>

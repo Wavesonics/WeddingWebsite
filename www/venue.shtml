@@ -18,7 +18,7 @@
     <script src="js/skel-layers.min.js"></script>
     <script src="js/init.js"></script>
 	
-	<!--#include virtual="/tracking.shtml"-->
+	<!--#include virtual="/includes/tracking.shtml"-->
 	
 	<noscript>
 			<link rel="stylesheet" href="css/skel.css">
@@ -32,29 +32,7 @@
   <body class="no-sidebar">
     <!-- Header -->
     <header id="header">
-      <h1 id="logo"><a href="index.shtml">adam<span>and</span>stacy<span>.com</span></a></h1>
-      <nav id="nav">
-        <ul>
-          <li class="current"><a href="index.shtml">Welcome</a></li>
-          <li class="submenu"> <a href="">Navigation</a>
-            <ul>
-              <li><a href="venue.shtml">Venue</a></li>
-              <li><a href="guestbook.shtml">Guest Book</a></li>
-              <li><a href="areainfo.shtml">Area Info</a></li>
-              <li><a href="registry.shtml">Registry</a></li>
-              <li><a href="photos.shtml">Photos</a></li>
-              <!--
-              <li class="submenu"> <a href="">Submenu</a>                <ul>
-                  <li><a href="#">Dolore Sed</a></li>                  <li><a href="#">Consequat</a></li>
-                  <li><a href="#">Lorem Magna</a></li>                  <li><a href="#">Sed Magna</a></li>
-                  <li><a href="#">Ipsum Nisl</a></li>                </ul>
-              </li>			  -->
-            </ul>
-          </li>
-          <li><a href="https://docs.google.com/forms/d/1BTEYJDQ2SpZ9O0ladblGQsG3w88jqqOQBO4Nc11-csc/viewform?usp=send_form"
-              class="button special">RSVP</a></li>
-        </ul>
-      </nav>
+		<!--#include virtual="/includes/header.shtml"-->
     </header>
     <!-- Main -->
     <article id="main">
@@ -75,7 +53,10 @@
               bedrooms, a home style kitchen, and plenty of space to sit and
               visit. The grounds include a large lawn, horseshoe pit, fire pit
               and barbecue grills. The Lodge accommodates up to 28
-              overnight&nbsp; guests. </p>
+              overnight&nbsp; guests.</p>
+			<p>We invite our immediate family and bridal party to
+			  spend the weekend with us and get to know one another in a
+			  relaxed atmosphere.</p>
           </section>
           <section>
             <header>
@@ -105,7 +86,7 @@
                 Lodge are welcome to use the outdoor hot tub on the deck!</p>
               <footer>
                 <ul class="buttons">
-                  <li><a href="#" class="button small">Learn More</a></li>
+                  <li><a href="/images/venue/hottub.jpg" class="button small">Hot Tub!</a></li>
                 </ul>
               </footer>
             </section>
@@ -133,7 +114,7 @@
                 has a private bathroom and shower in each room. Hooray!</p>
               <footer>
                 <ul class="buttons">
-                  <li><a href="#" class="button small">Learn More</a></li>
+                  <li><a href="/images/venue/Wallace_Falls_Lodge_Bed_Layout.png" class="button small">Floor Plan</a></li>
                 </ul>
               </footer>
             </section>
@@ -143,22 +124,7 @@
     </article>
     <!-- Footer -->
     <footer id="footer">
-      <ul class="icons">
-        <li> <a href="https://twitter.com/search?f=realtime&amp;q=%23adamandstacywedding"
-            class="icon circle fa-twitter"><span class="label">Twitter</span></a><br>
-        </li>
-        <li> <a href="https://www.facebook.com/" class="icon circle fa-facebook"><span
-              class="label">Facebook</span></a><br>
-        </li>
-        <li> <a href="https://plus.google.com/+AdamBrownW" class="icon circle fa-google-plus"><span
-              class="label">Google+</span></a><br>
-        </li>
-      </ul>
-      <ul class="copyright">
-        <li>© adamandstacy.com</li>
-        <li>Design: <a href="http://html5up.net">HTML5 UP</a> as well as Stacy
-          and Adam</li>
-      </ul>
+		<!--#include virtual="/includes/footer.shtml"-->
     </footer>
   </body>
 </html>

@@ -35,7 +35,7 @@
 	
 		<!-- Header -->
 		<header id="header">
-			<!--#include virtual="/header.shtml"-->
+			<!--#include virtual="/includes/header.shtml"-->
 		</header>
 		
 		<!-- Main -->
@@ -159,7 +159,7 @@
 
 		<!-- Footer -->
 		<footer id="footer">
-			<!--#include virtual="/footer.shtml"-->
+			<!--#include virtual="/includes/footer.shtml"-->
 		</footer>
 
 	</body>

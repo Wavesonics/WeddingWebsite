@@ -17,7 +17,7 @@
     <script src="js/skel-layers.min.js"></script>
 	<script src="js/init.js"></script>
 	
-	<!--#include virtual="/tracking.shtml"-->
+	<!--#include virtual="/includes/tracking.shtml"-->
 	
 	<noscript>
 			<link rel="stylesheet" href="css/skel.css">
@@ -32,7 +32,7 @@
   <body class="index">
     <!-- Header -->
     <header id="header" class="alt">
-		<!--#include virtual="/header.shtml"-->
+		<!--#include virtual="/includes/header.shtml"-->
 	</header>
 	
     <!-- Banner -->
@@ -230,7 +230,7 @@
 	
     <!-- Footer -->
     <footer id="footer">
-		<!--#include virtual="/footer.shtml" -->
+		<!--#include virtual="/includes/footer.shtml" -->
     </footer>
   </body>
 </html>

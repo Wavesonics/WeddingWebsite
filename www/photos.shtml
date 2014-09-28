@@ -20,7 +20,8 @@
 			<link href="css/style-noscript.css" rel="stylesheet"/>
 		</noscript>
 	</head>
-	<body class="left-sidebar">	<header id="header">
+	<body class="left-sidebar">
+		<header id="header">
 			<!--#include virtual="/includes/header.shtml"-->
 		</header>	<article id="main">
 			<header class="special container">

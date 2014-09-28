@@ -1,0 +1,92 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>No Sidebar - Twenty by HTML5 UP</title>
+		<meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+		<meta content="" name="description"/>
+		<meta content="" name="keywords"/>	<script src="js/jquery.min.js"></script>
+		<script src="js/jquery.dropotron.min.js"></script>
+		<script src="js/jquery.scrolly.min.js"></script>
+		<script src="js/jquery.scrollgress.min.js"></script>
+		<script src="js/skel.min.js"></script>
+		<script src="js/skel-layers.min.js"></script>
+		<script src="js/init.js"></script>
+		<!--#include virtual="/includes/tracking.shtml"-->
+		<noscript>
+			<link href="css/skel.css" rel="stylesheet"/>
+			<link href="css/style.css" rel="stylesheet"/>
+			<link href="css/style-wide.css" rel="stylesheet"/>
+			<link href="css/style-noscript.css" rel="stylesheet"/>
+		</noscript>
+	</head>
+	<body class="no-sidebar">	<header id="header">
+			<!--#include virtual="/includes/header.shtml"-->
+		</header>	<article id="main">
+			<header class="special container">
+				<span class="icon fa-gift"></span>
+				<h2><strong>Wedding</strong> Registry</h2>
+				<p>You buying us stuff!</p>
+			</header>	<section class="wrapper style4 container">	<div class="content">
+					<section>
+						<a class="image featured" href="#"><img alt="" src="images/registry/wedding-registry.jpg"/></a>
+						<header>
+							<h3><strong>Where</strong> we are registered</h3>
+						</header>
+						<p>We're registered at Amazon, Macy's and William Sonoma. FLowery language, thanks and more go here. Enough so that it's not just a single line of text, that looks bad on full width browsers.</p>
+						<p>Please check below for links to each registry.</p>
+					</section>
+				</div>
+			</section>	<section class="wrapper style1 container special">
+				<div class="row">
+					<div class="4u">
+						<section>
+							<header>
+								<h3>Macy's</h3>
+							</header>
+							<p>Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget
+								arcu commodo suscipit dolor nec nibh. Proin a ullamcorper elit, et
+								sagittis turpis. Integer ut fermentum.</p>
+							<footer>
+								<ul class="buttons">
+									<li><a class="button small" href="https://www.macys.com/registry/wedding/registryhome">View Registry</a></li>
+								</ul>
+							</footer>
+						</section>
+					</div>
+					<div class="4u">
+						<section>
+							<header>
+								<h3>Amazon</h3>
+							</header>
+							<p>Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget
+								arcu commodo suscipit dolor nec nibh. Proin a ullamcorper elit, et
+								sagittis turpis. Integer ut fermentum.</p>
+							<footer>
+								<ul class="buttons">
+									<li><a class="button small" href="http://www.amazon.com/gp/wedding/homepage">View Registry</a></li>
+								</ul>
+							</footer>
+						</section>
+					</div>
+					<div class="4u">
+						<section>
+							<header>
+								<h3>William Sonoma</h3>
+							</header>
+							<p>Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget
+								arcu commodo suscipit dolor nec nibh. Proin a ullamcorper elit, et
+								sagittis turpis. Integer ut fermentum.</p>
+							<footer>
+								<ul class="buttons">
+									<li><a class="button small" href="https://secure.williams-sonoma.com/registry/">View Registry</a></li>
+								</ul>
+							</footer>
+						</section>
+					</div>
+				</div>
+			</section>
+		</article>	<footer id="footer">
+			<!--#include virtual="/includes/footer.shtml"-->
+		</footer>
+	</body>
+</html>

@@ -72,3 +72,10 @@
 		background-size: 15em, 15em, auto, cover;
 		padding: 3em;
 	}
+	
+/* Image Gallery */
+
+.image-gallery {
+	width: 55vw;
+    height: 55vw;
+}

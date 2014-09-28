@@ -1,15 +1,17 @@
-      <ul class="icons">
-        <li>
-			<a href="https://twitter.com/search?f=realtime&q=%23adamandstacywedding" class="icon circle fa-twitter"><span class="label">Twitter</span></a><br>
-        </li>
-        <li>
-			<a href="https://www.facebook.com/" class="icon circle fa-facebook"><span class="label">Facebook</span></a><br>
-        </li>
-        <li>
-			<a href="https://plus.google.com/+AdamBrownW" class="icon circle fa-google-plus"><span class="label">Google+</span></a><br>
-        </li>
-      </ul>
-      <ul class="copyright">
-        <li>© adamandstacy.com</li>
-        <li>Design: <a href="http://html5up.net">HTML5 UP</a> as well as Stacy and Adam</li>
-      </ul>
+		<ul class="icons">
+			<li>
+				<a class="icon circle fa-twitter" href="https://twitter.com/search?f=realtime&q=%23adamandstacywedding"><span class="label">Twitter</span></a><br>
+			</li>
+			<li>
+				<a class="icon circle fa-facebook" href="https://www.facebook.com/"><span class="label">Facebook</span></a><br>
+			</li>
+			<li>
+				<a class="icon circle fa-google-plus" href="https://plus.google.com/+AdamBrownW"><span class="label">Google+</span></a><br>
+			</li>
+		</ul>
+		<ul class="copyright">
+			<li>© adamandstacy.com</li>
+			<li>Design:
+				<a href="http://html5up.net">HTML5 UP</a>
+				as well as Stacy and Adam</li>
+		</ul>

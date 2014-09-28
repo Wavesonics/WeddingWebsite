@@ -297,10 +297,10 @@
 			text-align: right
 		}
 			
-		.image.no_overlay:before {
+		.image.no_overlay:after {
 			background: none;
 		}
-
+	
 /* Icon */
 
 	.icon {
@@ -1128,3 +1128,48 @@
 			height:256px;
 			width:512px;
 		}
+		
+/* Image Gallery */
+
+.image-gallery-container {
+	display: table;
+}
+
+.image-gallery {
+	border: 1px;
+	border-style: dotted;
+	position: relative;
+	display: table-cell;
+	vertical-align: middle;
+	overflow: hidden;
+	
+	/* Make it square! */
+	width: 40vw;
+    height: 40vw;
+	margin: 0 auto;
+}
+
+	.image-gallery img {
+		display: block;
+		position: relative;
+		background-color: gray;
+		max-width: 100%;
+		margin:auto auto;
+	}
+	
+ul.image-gallery-controls
+{
+	position: absolute;
+}
+
+.image-gallery-controls.left
+{
+	left: 0px;
+	bottom: 0px;
+}
+
+.image-gallery-controls.right
+{
+	right: 0px;
+	bottom: 0px;
+}

@@ -202,3 +202,10 @@
 			height:256px;
 			width:100%;
 		}
+		
+/* Image Gallery */
+
+.image-gallery {
+	width: 90vw;
+    height: 90vw;
+}

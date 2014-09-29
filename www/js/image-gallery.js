@@ -34,6 +34,34 @@ var venueImages = [
 					{
 						"image" : "/images/venue/gallery/6969275.jpg",
 						"thumb" : "/images/venue/gallery/6969275_thumb.jpg"
+					},
+					{
+						"image" : "/images/venue/gallery/6969260.jpg",
+						"thumb" : "/images/venue/gallery/6969260_thumb.jpg"
+					},
+					{
+						"image" : "/images/venue/gallery/6969266.jpg",
+						"thumb" : "/images/venue/gallery/6969266_thumb.jpg"
+					},
+					{
+						"image" : "/images/venue/gallery/6969267.jpg",
+						"thumb" : "/images/venue/gallery/6969267_thumb.jpg"
+					},
+					{
+						"image" : "/images/venue/gallery/6969268.jpg",
+						"thumb" : "/images/venue/gallery/6969268_thumb.jpg"
+					},
+					{
+						"image" : "/images/venue/gallery/6970224.jpg",
+						"thumb" : "/images/venue/gallery/6970224_thumb.jpg"
+					},
+					{
+						"image" : "/images/venue/gallery/6970233.jpg",
+						"thumb" : "/images/venue/gallery/6970233_thumb.jpg"
+					},
+					{
+						"image" : "/images/venue/gallery/6970239.jpg",
+						"thumb" : "/images/venue/gallery/6970239_thumb.jpg"
 					}
 				];
 				

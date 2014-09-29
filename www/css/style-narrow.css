@@ -77,5 +77,6 @@
 
 .image-gallery {
 	width: 55vw;
+	max-width: 55vw;
     height: 55vw;
 }

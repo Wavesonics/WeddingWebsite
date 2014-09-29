@@ -208,4 +208,5 @@
 .image-gallery {
 	width: 90vw;
     height: 90vw;
+	max-width: 90vw;
 }

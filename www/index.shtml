@@ -30,7 +30,7 @@
 				<header>
 					<h2>adam &amp; Stacy!</h2>
 				</header>
-				<p>We're getting married!</p>
+				<p>We're getting <strong>married!</strong></p>
 				<p><br>
 				</p>
 				<p>“For small creatures such as we</p>
@@ -176,7 +176,7 @@
 								<img alt="" src="images/pic02.jpg">
 							</div>
 							<header>
-								<h3>So now&nbsp; you're getting married?</h3>
+								<h3>So you're getting married?</h3>
 							</header>
 							<p>Yes!
 								<a href="http://www.dropmocks.com/mFXW2q">We got engaged at 12,300' on
@@ -197,7 +197,7 @@
 							</header>
 							<p>Adam Brown, son of Merrill and Deborah Brown, grew up in Freehold,
 								New Jersey and attended Plymouth State University, where he met
-								Stacy.&nbsp; He is a software engineer, currently working at Bungie in
+								Stacy.&nbsp; He is a software engineer, currently working at <a href="http://www.bungie.net/">Bungie Studios</a> in
 								Bellevue, WA.&nbsp; He loves the outdoors and is an avid hiker, skier
 								and nature lover.&nbsp;
 							</p>
@@ -225,8 +225,7 @@
 			<header>
 				<h2>Tell us
 					<strong>you're coming!</strong></h2>
-				<p>Also you can check out the area, there will be some time to hike or
-					do other things.</p>
+				<p>While you're are it, check it where to stay and what to do while you're here!</p>
 			</header>
 			<footer>
 				<ul class="buttons">

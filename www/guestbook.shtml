@@ -32,7 +32,7 @@
 		</header>
 		<article id="main">
 			<header class="special container">
-				<span class="icon fa-envelope"></span>
+				<span class="icon fa-book"></span>
 				<h2>Guestbook</h2>
 				<p>Leave us some love!</p>
 			</header>

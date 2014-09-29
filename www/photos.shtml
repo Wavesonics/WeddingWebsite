@@ -1,165 +1,141 @@
 <!DOCTYPE HTML>
 <html>
-	<head>
-		<title>Photos</title>
-		<link href="favicon.ico" rel="icon" type="image/x-icon"/>
-		<meta content="text/html; charset=utf-8" http-equiv="content-type"/>
-		<meta content="" name="description"/>
-		<meta content="" name="keywords"/>
-		<script src="js/jquery.min.js"></script>
-		<script src="js/jquery.dropotron.min.js"></script>
-		<script src="js/jquery.scrolly.min.js"></script>
-		<script src="js/jquery.scrollgress.min.js"></script>
-		<script src="js/skel.min.js"></script>
-		<script src="js/skel-layers.min.js"></script>
-		<script src="js/init.js"></script>
-		<!--#include virtual="/includes/tracking.shtml"-->
-		<noscript>
-			<link href="css/skel.css" rel="stylesheet"/>
-			<link href="css/style.css" rel="stylesheet"/>
-			<link href="css/style-wide.css" rel="stylesheet"/>
-			<link href="css/style-noscript.css" rel="stylesheet"/>
-		</noscript>
-	</head>
-	<body class="left-sidebar">
-		<header id="header">
-			<!--#include virtual="/includes/header.shtml"-->
-		</header>
-		<article id="main">
-			<header class="special container">
-				<span class="icon fa-camera"></span>
-				<h2><strong>Capturing</strong>
-					the day</h2>
-				<p>We want to capture as much of the weekend as possible,<br/>so we've
-				put together a few ways for you to share your photos with us!</p>
-			</header>
-			<section class="wrapper style4 container">
-				<div class="row oneandhalf">
-					<div class="4u">
-						<div class="sidebar">
-							<section>
-								<header>
-									<h3>Party Mode!</h3>
-								</header>
-								<p><strong>Automatically upload photos to our event as you take them
-									throughout the day!</strong>
-									This is by far the easiest way if you have an Android phone we think.
-									<a href="https://plus.google.com/+AdamBrownW">If you RSVP to our G+
-										Event</a>
-										then on the day of the wedding your phone will pop-up an option to
-										enter "<strong>Party
-										Mode</strong>".
-										If you opt-in, every picture you take while at the event will be
-										automatically uploaded so we can all enjoy them!</p>
-								<footer>
-									<ul class="buttons">
-										<li><a class="button small" href="https://support.google.com/plus/answer/2618640">Learn
-											More</a></li>
-									</ul>
-								</footer>
-							</section>
-							<section>
-								<a class="image featured" href="#"><img alt="" src="images/pic03.jpg"/></a>
-								<header>
-									<h3>Good ol' Film</h3>
-								</header>
-								<p>If you plan on taking good ol' physical photos and would like to mail
-									them to us after the event, that's great too! Here's our address:</p>
-								<p><strong>900 108th Ave NE<br/>
-										Apt# 508<br/>
-										Bellevue WA, 98004</strong></p>
-								<footer>
-									<ul class="buttons">
-										<li><a class="button small" href="#">Learn More</a></li>
-									</ul>
-								</footer>
-							</section>
-						</div>
-					</div>
-					<div class="8u skel-cell-important">
-						<div class="content">
-							<section>
-								<a class="image featured" href="#"><img alt="" src="images/photos/photos_banner.jpg"/></a>
-								<header>
-									<h3>Dolore Amet Consequat</h3>
-								</header>
-								<p>Aliquam massa urna, imperdiet sit amet mi non, bibendum euismod est.
-									Curabitur mi justo, tincidunt vel eros ullamcorper, porta cursus justo.
-									Cras vel neque eros. Vestibulum diam quam, mollis at consectetur non,
-									malesuada quis augue. Morbi tincidunt pretium interdum. Morbi mattis
-									elementum orci, nec dictum massa. Morbi eu faucibus massa. Aliquam massa
-									urna, imperdiet sit amet mi non, bibendum euismod est. Curabitur mi
-									justo, tincidunt vel eros ullamcorper, porta cursus justo. Cras vel
-									neque eros. Vestibulum diam.</p>
-								<p>Vestibulum diam quam, mollis at consectetur non, malesuada quis
-									augue. Morbi tincidunt pretium interdum. Morbi mattis elementum orci,
-									nec dictum porta cursus justo. Quisque ultricies lorem in ligula
-									condimentum, et egestas turpis sagittis. Cras ac nunc urna. Nullam eget
-									lobortis purus. Phasellus vitae tortor non est placerat tristique. Sed
-									id sem et massa ornare pellentesque. Maecenas pharetra porta accumsan.
-								</p>
-								<p>In vestibulum massa quis arcu lobortis tempus. Nam pretium arcu in
-									odio vulputate luctus. Suspendisse euismod lorem eget lacinia fringilla.
-									Sed sed felis justo. Nunc sodales elit in laoreet aliquam. Nam gravida,
-									nisl sit amet iaculis porttitor, risus nisi rutrum metus, non hendrerit
-									ipsum arcu tristique est.</p>
-							</section>
-						</div>
-					</div>
-				</div>
-			</section>
-			<section class="wrapper style1 container special">
-				<div class="row">
-					<div class="4u">
-						<section>
-							<header>
-								<h3>This is Something</h3>
-							</header>
-							<p>Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget
-								arcu commodo suscipit dolor nec nibh. Proin a ullamcorper elit, et
-								sagittis turpis. Integer ut fermentum.</p>
-							<footer>
-								<ul class="buttons">
-									<li><a class="button small" href="#">Learn More</a></li>
-								</ul>
-							</footer>
-						</section>
-					</div>
-					<div class="4u">
-						<section>
-							<header>
-								<h3>Also Something</h3>
-							</header>
-							<p>Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget
-								arcu commodo suscipit dolor nec nibh. Proin a ullamcorper elit, et
-								sagittis turpis. Integer ut fermentum.</p>
-							<footer>
-								<ul class="buttons">
-									<li><a class="button small" href="#">Learn More</a></li>
-								</ul>
-							</footer>
-						</section>
-					</div>
-					<div class="4u">
-						<section>
-							<header>
-								<h3>Probably Something</h3>
-							</header>
-							<p>Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget
-								arcu commodo suscipit dolor nec nibh. Proin a ullamcorper elit, et
-								sagittis turpis. Integer ut fermentum.</p>
-							<footer>
-								<ul class="buttons">
-									<li><a class="button small" href="#">Learn More</a></li>
-								</ul>
-							</footer>
-						</section>
-					</div>
-				</div>
-			</section>
-		</article>
-		<footer id="footer">
-			<!--#include virtual="/includes/footer.shtml"-->
-		</footer>
-	</body>
+    <head>
+        <title>Photos</title>
+        <link href="favicon.ico" rel="icon" type="image/x-icon"/>
+        <meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+        <meta content="" name="description"/>
+        <meta content="" name="keywords"/>
+        <script src="js/jquery.min.js"></script>
+        <script src="js/jquery.dropotron.min.js"></script>
+        <script src="js/jquery.scrolly.min.js"></script>
+        <script src="js/jquery.scrollgress.min.js"></script>
+        <script src="js/skel.min.js"></script>
+        <script src="js/skel-layers.min.js"></script>
+        <script src="js/init.js"></script>
+        <!--#include virtual="/includes/tracking.shtml"-->
+        <noscript>
+            <link href="css/skel.css" rel="stylesheet"/>
+            <link href="css/style.css" rel="stylesheet"/>
+            <link href="css/style-wide.css" rel="stylesheet"/>
+            <link href="css/style-noscript.css" rel="stylesheet"/>
+        </noscript>
+    </head>
+    <body class="left-sidebar">
+        <header id="header">
+            <!--#include virtual="/includes/header.shtml"-->
+        </header>
+        <article id="main">
+            <header class="special container">
+                <span class="icon fa-camera"></span>
+                <h2><strong>Capturing</strong>
+                    the day</h2>
+                <p>We want to capture as much of the weekend as possible,<br/>so we've
+                put together a few ways for you to share your photos with us!</p>
+            </header>
+            <section class="wrapper style4 container">
+                <div class="row oneandhalf">
+                    <div class="4u">
+                        <div class="sidebar">
+                            <section>
+                                <header>
+                                    <h3>Party Mode!</h3>
+                                </header>
+                                <p><strong>Automatically upload photos to our event as you take them
+                                    throughout the day!</strong>
+                                    This is by far the easiest way if you have an Android phone we think.
+                                    <a href="https://plus.google.com/+AdamBrownW">If you RSVP to our G+
+                                        Event</a>
+                                    then on the day of the wedding your phone will pop-up an option to enter
+                                        "<strong>Party
+                                        Mode</strong>".
+                                        If you opt-in, every picture you take while at the event will be
+                                        automatically uploaded so we can all enjoy them!</p>
+                                <footer>
+                                    <ul class="buttons">
+                                        <li><a class="button small" href="https://support.google.com/plus/answer/2618640">Learn
+                                            More</a></li>
+                                    </ul>
+                                </footer>
+                            </section>
+                            <section>
+                                <a class="image featured" href="#"><img alt="" src="images/pic03.jpg"/></a>
+                                <header>
+                                    <h3>Good ol' Film</h3>
+                                </header>
+                                <p>If you plan on taking good ol' physical photos and would like to mail
+                                    them to us after the event, that's great too! Here's our address:</p>
+                                <p><strong>900 108th Ave NE<br/>
+                                        Apt# 508<br/>
+                                        Bellevue WA, 98004</strong></p>
+                            </section>
+                        </div>
+                    </div>
+                    <div class="8u skel-cell-important">
+                        <div class="content">
+                            <section>
+                                <a class="image featured" href="#"><img alt="" src="images/photos/photos_banner.jpg"/></a>
+                                <header>
+                                    <h3>Social Media: Or How to Wedding in 2015</h3>
+                                </header>
+                                <p>#bramwedding. Use it, don't abuse it! We'd love to see all the pics--
+                                    the good, the bad, the hilarious, the embarrassing, the ugly and the
+                                    blurry. Use #bramwedding on facebook, twitter and Google+ so we can all share in
+                                    the love and laughs. As the bride, Stacy reserves the right to delete any
+                                    picture in which she does not look FABULOUS! Just kidding...mostly.
+                                </p>
+                                
+                            </section>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="wrapper style1 container special">
+                <div class="row">
+                    <div class="4u">
+                        <section>
+                            <header>
+                                <h3>Facebook Event</h3>
+                            </header>
+                            <p>Use our Facebook event for coordinating and uploading photos!</p>
+                            <footer>
+                                <ul class="buttons">
+                                    <li><a class="button small" href="#">Coming Soon</a></li>
+                                </ul>
+                            </footer>
+                        </section>
+                    </div>
+                    <div class="4u">
+                        <section>
+                            <header>
+                                <h3>Google+ Event</h3>
+                            </header>
+                            <p>Respond to our G+ event to have it auto-upload photos for you during the event!</p>
+                            <footer>
+                                <ul class="buttons">
+                                    <li><a class="button small" href="#">Coming Soon</a></li>
+                                </ul>
+                            </footer>
+                        </section>
+                    </div>
+                    <div class="4u">
+                        <section>
+                            <header>
+                                <h3>Twitter</h3>
+                            </header>
+                            <p>Maybe Twitter is your thing, tag all the photo's you take with #bramwedding so we can all enjoy them!</p>
+                            <footer>
+                                <ul class="buttons">
+                                    <li><a class="button small" href="https://twitter.com/search?f=realtime&q=%23adamandstacywedding">See Tweets</a></li>
+                                </ul>
+                            </footer>
+                        </section>
+                    </div>
+                </div>
+            </section>
+        </article>
+        <footer id="footer">
+            <!--#include virtual="/includes/footer.shtml"-->
+        </footer>
+    </body>
 </html>

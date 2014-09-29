@@ -1145,6 +1145,7 @@
 	
 	/* Make it square! */
 	width: 40vw;
+	max-width: 40vw;
     height: 40vw;
 	margin: 0 auto;
 }

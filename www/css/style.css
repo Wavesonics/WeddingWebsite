@@ -1157,19 +1157,30 @@
 		margin:auto auto;
 	}
 	
-ul.image-gallery-controls
-{
+ul.image-gallery-controls {
 	position: absolute;
 }
 
-.image-gallery-controls.left
-{
+.image-gallery-controls.left {
 	left: 0px;
 	bottom: 0px;
 }
 
-.image-gallery-controls.right
-{
+.image-gallery-controls.right {
 	right: 0px;
 	bottom: 0px;
+}
+
+/* Guestbook */
+.guestBookEntry {
+	border-width: 1pt;
+	border-style: dashed;
+	padding: 10pt;
+	text-align: left;
+	
+	margin-bottom: 10pt;
+}
+
+.guestBookEntry.alt {
+	background-color:#eeeecc;
 }

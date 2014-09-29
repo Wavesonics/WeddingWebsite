@@ -56,7 +56,7 @@
 					</section>
 					<section>
 						<header>
-							<h3>Photos of the Lodge</h3>
+							<h3><strong>Photos</strong> of The Lodge</h3>
 						</header>
 						<div class="image-gallery-container">
 							<div class="image-gallery">
@@ -79,7 +79,7 @@
 					</section>
 					<section>
 						<header>
-							<h3>Location Info</h3>
+							<h3><strong>Location</strong> Info</h3>
 						</header>
 						<p><a href="http://www.wallacefallslodge.com/">Wallace Falls Lodge</a><br>
 							14424 Wallace Lake Rd<br>

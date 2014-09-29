@@ -1,0 +1,75 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Guestbook</title>
+		<meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+		<meta content="" name="description"/>
+		<meta content="" name="keywords"/>
+		<script src="js/jquery.min.js"></script>
+		<script src="js/jquery.dropotron.min.js"></script>
+		<script src="js/jquery.scrolly.min.js"></script>
+		<script src="js/jquery.scrollgress.min.js"></script>
+		<script src="js/skel.min.js"></script>
+		<script src="js/skel-layers.min.js"></script>
+		<script src="js/init.js"></script>
+		<script src="js/guestbook.js"></script>
+		<script type="text/javascript">
+			$(document).ready(function () {
+				initGuestbook();
+			});
+		</script>
+		<!--#include virtual="/includes/tracking.shtml"-->
+		<noscript>
+			<link href="css/skel.css" rel="stylesheet"/>
+			<link href="css/style.css" rel="stylesheet"/>
+			<link href="css/style-wide.css" rel="stylesheet"/>
+			<link href="css/style-noscript.css" rel="stylesheet"/>
+		</noscript>
+	</head>
+	<body class="contact">
+		<header id="header">
+			<!--#include virtual="/includes/header.shtml"-->
+		</header>
+		<article id="main">
+			<header class="special container">
+				<span class="icon fa-envelope"></span>
+				<h2>Guestbook</h2>
+				<p>Leave us some love!</p>
+			</header>
+			<section class="wrapper style4 special container small">
+				<div class="content">
+					<h2>Guest Signatures</h2>
+					<section id="guestbook">
+						
+					</section>
+				</div>
+			</section>
+			<section class="wrapper style4 special container small">
+				<div class="content">
+					<form action="/guestbook/addentry.php" method="post">
+						<div class="row half">
+							<div class="12u">
+								<input name="name" placeholder="Name" type="text"/>
+							</div>
+						</div>
+						<div class="row half">
+							<div class="12u">
+								<textarea name="message" placeholder="Message" rows="7"></textarea>
+							</div>
+						</div>
+						<div class="row">
+							<div class="12u">
+								<ul class="buttons">
+									<li><input class="special" type="submit" on value="Sign Guest Book"/></li>
+								</ul>
+							</div>
+						</div>
+					</form>
+				</div>
+			</section>
+		</article>
+		<footer id="footer">
+			<!--#include virtual="/includes/footer.shtml"-->
+		</footer>
+	</body>
+</html>

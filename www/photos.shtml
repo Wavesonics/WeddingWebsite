@@ -5,14 +5,15 @@
 		<link href="favicon.ico" rel="icon" type="image/x-icon"/>
 		<meta content="text/html; charset=utf-8" http-equiv="content-type"/>
 		<meta content="" name="description"/>
-		<meta content="" name="keywords"/>	<script src="js/jquery.min.js"></script>
+		<meta content="" name="keywords"/>
+		<script src="js/jquery.min.js"></script>
 		<script src="js/jquery.dropotron.min.js"></script>
 		<script src="js/jquery.scrolly.min.js"></script>
 		<script src="js/jquery.scrollgress.min.js"></script>
 		<script src="js/skel.min.js"></script>
 		<script src="js/skel-layers.min.js"></script>
 		<script src="js/init.js"></script>
-		<!--#include virtual="/tracking.shtml"-->
+		<!--#include virtual="/includes/tracking.shtml"-->
 		<noscript>
 			<link href="css/skel.css" rel="stylesheet"/>
 			<link href="css/style.css" rel="stylesheet"/>
@@ -23,31 +24,33 @@
 	<body class="left-sidebar">
 		<header id="header">
 			<!--#include virtual="/includes/header.shtml"-->
-		</header>	<article id="main">
+		</header>
+		<article id="main">
 			<header class="special container">
 				<span class="icon fa-camera"></span>
 				<h2><strong>Capturing</strong>
 					the day</h2>
-				<p>We want to capture as much of the weekend as possible,<br/>so we're
-				putting together a few ways for you guys to get photos to us that you
-				may have taken.</p>
-			</header>	<section class="wrapper style4 container">
+				<p>We want to capture as much of the weekend as possible,<br/>so we've
+				put together a few ways for you to share your photos with us!</p>
+			</header>
+			<section class="wrapper style4 container">
 				<div class="row oneandhalf">
-					<div class="4u">	<div class="sidebar">
+					<div class="4u">
+						<div class="sidebar">
 							<section>
 								<header>
 									<h3>Party Mode!</h3>
 								</header>
-								<p><strong>Automatically upload photos to our Event as you take them
+								<p><strong>Automatically upload photos to our event as you take them
 									throughout the day!</strong>
-									This is by far the easiest way we think.
+									This is by far the easiest way if you have an Android phone we think.
 									<a href="https://plus.google.com/+AdamBrownW">If you RSVP to our G+
-										Event</a>,
-										then on the day of the wedding, your phone will pop-up an option to
+										Event</a>
+										then on the day of the wedding your phone will pop-up an option to
 										enter "<strong>Party
 										Mode</strong>".
 										If you opt-in, every picture you take while at the event will be
-										uploaded along wither everyone else's so we can all enjoy them!</p>
+										automatically uploaded so we can all enjoy them!</p>
 								<footer>
 									<ul class="buttons">
 										<li><a class="button small" href="https://support.google.com/plus/answer/2618640">Learn
@@ -58,11 +61,11 @@
 							<section>
 								<a class="image featured" href="#"><img alt="" src="images/pic03.jpg"/></a>
 								<header>
-									<h3>Good 'ol Film</h3>
+									<h3>Good ol' Film</h3>
 								</header>
-								<p>If you plan on taking good 'ol physical photos and would like to mail
+								<p>If you plan on taking good ol' physical photos and would like to mail
 									them to us after the event, that's great too! Here's our address:</p>
-								<p><strong>900 10th Ave NE<br/>
+								<p><strong>900 108th Ave NE<br/>
 										Apt# 508<br/>
 										Bellevue WA, 98004</strong></p>
 								<footer>
@@ -73,9 +76,10 @@
 							</section>
 						</div>
 					</div>
-					<div class="8u skel-cell-important">	<div class="content">
+					<div class="8u skel-cell-important">
+						<div class="content">
 							<section>
-								<a class="image featured" href="#"><img alt="" src="images/pic02.jpg"/></a>
+								<a class="image featured" href="#"><img alt="" src="images/photos/photos_banner.jpg"/></a>
 								<header>
 									<h3>Dolore Amet Consequat</h3>
 								</header>
@@ -103,7 +107,8 @@
 						</div>
 					</div>
 				</div>
-			</section>	<section class="wrapper style1 container special">
+			</section>
+			<section class="wrapper style1 container special">
 				<div class="row">
 					<div class="4u">
 						<section>
@@ -152,7 +157,8 @@
 					</div>
 				</div>
 			</section>
-		</article>	<footer id="footer">
+		</article>
+		<footer id="footer">
 			<!--#include virtual="/includes/footer.shtml"-->
 		</footer>
 	</body>

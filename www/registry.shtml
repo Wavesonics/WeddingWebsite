@@ -1,92 +1,104 @@
 <!DOCTYPE HTML>
 <html>
-	<head>
-		<title>No Sidebar - Twenty by HTML5 UP</title>
-		<meta content="text/html; charset=utf-8" http-equiv="content-type"/>
-		<meta content="" name="description"/>
-		<meta content="" name="keywords"/>	<script src="js/jquery.min.js"></script>
-		<script src="js/jquery.dropotron.min.js"></script>
-		<script src="js/jquery.scrolly.min.js"></script>
-		<script src="js/jquery.scrollgress.min.js"></script>
-		<script src="js/skel.min.js"></script>
-		<script src="js/skel-layers.min.js"></script>
-		<script src="js/init.js"></script>
-		<!--#include virtual="/includes/tracking.shtml"-->
-		<noscript>
-			<link href="css/skel.css" rel="stylesheet"/>
-			<link href="css/style.css" rel="stylesheet"/>
-			<link href="css/style-wide.css" rel="stylesheet"/>
-			<link href="css/style-noscript.css" rel="stylesheet"/>
-		</noscript>
-	</head>
-	<body class="no-sidebar">	<header id="header">
-			<!--#include virtual="/includes/header.shtml"-->
-		</header>	<article id="main">
-			<header class="special container">
-				<span class="icon fa-gift"></span>
-				<h2><strong>Wedding</strong> Registry</h2>
-				<p>You buying us stuff!</p>
-			</header>	<section class="wrapper style4 container">	<div class="content">
-					<section>
-						<a class="image featured" href="#"><img alt="" src="images/registry/wedding-registry.jpg"/></a>
-						<header>
-							<h3><strong>Where</strong> we are registered</h3>
-						</header>
-						<p>We're registered at Amazon, Macy's and William Sonoma. FLowery language, thanks and more go here. Enough so that it's not just a single line of text, that looks bad on full width browsers.</p>
-						<p>Please check below for links to each registry.</p>
-					</section>
-				</div>
-			</section>	<section class="wrapper style1 container special">
-				<div class="row">
-					<div class="4u">
-						<section>
-							<header>
-								<h3>Macy's</h3>
-							</header>
-							<p>Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget
-								arcu commodo suscipit dolor nec nibh. Proin a ullamcorper elit, et
-								sagittis turpis. Integer ut fermentum.</p>
-							<footer>
-								<ul class="buttons">
-									<li><a class="button small" href="https://www.macys.com/registry/wedding/registryhome">View Registry</a></li>
-								</ul>
-							</footer>
-						</section>
-					</div>
-					<div class="4u">
-						<section>
-							<header>
-								<h3>Amazon</h3>
-							</header>
-							<p>Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget
-								arcu commodo suscipit dolor nec nibh. Proin a ullamcorper elit, et
-								sagittis turpis. Integer ut fermentum.</p>
-							<footer>
-								<ul class="buttons">
-									<li><a class="button small" href="http://www.amazon.com/gp/wedding/homepage">View Registry</a></li>
-								</ul>
-							</footer>
-						</section>
-					</div>
-					<div class="4u">
-						<section>
-							<header>
-								<h3>William Sonoma</h3>
-							</header>
-							<p>Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget
-								arcu commodo suscipit dolor nec nibh. Proin a ullamcorper elit, et
-								sagittis turpis. Integer ut fermentum.</p>
-							<footer>
-								<ul class="buttons">
-									<li><a class="button small" href="https://secure.williams-sonoma.com/registry/">View Registry</a></li>
-								</ul>
-							</footer>
-						</section>
-					</div>
-				</div>
-			</section>
-		</article>	<footer id="footer">
-			<!--#include virtual="/includes/footer.shtml"-->
-		</footer>
-	</body>
+    <head>
+        <title>Wedding Registry</title>
+        <meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+        <meta content="" name="description"/>
+        <meta content="" name="keywords"/>
+        <script src="js/jquery.min.js"></script>
+        <script src="js/jquery.dropotron.min.js"></script>
+        <script src="js/jquery.scrolly.min.js"></script>
+        <script src="js/jquery.scrollgress.min.js"></script>
+        <script src="js/skel.min.js"></script>
+        <script src="js/skel-layers.min.js"></script>
+        <script src="js/init.js"></script>
+        <!--#include virtual="/includes/tracking.shtml"-->
+        <noscript>
+            <link href="css/skel.css" rel="stylesheet"/>
+            <link href="css/style.css" rel="stylesheet"/>
+            <link href="css/style-wide.css" rel="stylesheet"/>
+            <link href="css/style-noscript.css" rel="stylesheet"/>
+        </noscript>
+    </head>
+    <body class="no-sidebar">
+        <header id="header">
+            <!--#include virtual="/includes/header.shtml"-->
+        </header>
+        <article id="main">
+            <header class="special container">
+                <span class="icon fa-gift"></span>
+                <h2><strong>Wedding</strong>
+                    Registry</h2>
+                <p>Stuff we need! Things we like!</p>
+            </header>
+            <section class="wrapper style4 container">
+                <div class="content">
+                    <section>
+                        <a class="image featured" href="#"><img alt="" src="images/registry/bear_attack.jpg"/></a>
+                        <header>
+                            <h3><strong>Where</strong>
+                                we are registered</h3>
+                        </header>
+                        <p>We're registered at Amazon, Macy's and William Sonoma. As we join
+                            together in marriage and unite our lives, we are really going to need a
+                            nice set of knives! If you are inclined to stray from the registry,
+                            please keep in mind we are casual folks who like to host large get
+                            togethers and we love the outdoors!
+                        </p>
+                        <p>Please check below for links to each registry.</p>
+                    </section>
+                </div>
+            </section>
+            <section class="wrapper style1 container special">
+                <div class="row">
+                    <div class="4u">
+                        <section>
+                            <header>
+                                <h3>Macy's</h3>
+                            </header>
+                            <p>For our traditional friends and family, and because taking a shower
+                                without a nice towel really sucks.</p>
+                            <footer>
+                                <ul class="buttons">
+                                    <li><a class="button small" href="#">Coming Soon</a></li>
+                                </ul>
+                            </footer>
+                        </section>
+                    </div>
+                    <div class="4u">
+                        <section>
+                            <header>
+                                <h3>Amazon</h3>
+                            </header>
+                            <p>Check this out if you, like us, are a little non-traditional and
+                                buying plates and towels is not your idea of a good time.</p>
+                            <footer>
+                                <ul class="buttons">
+                                    <li><a class="button small" href="http://www.amazon.com/gp/wedding/homepage">View
+                                        Registry</a></li>
+                                </ul>
+                            </footer>
+                        </section>
+                    </div>
+                    <div class="4u">
+                        <section>
+                            <header>
+                                <h3>William Sonoma</h3>
+                            </header>
+                            <p>We spend a lot of our time in the kitchen. Whether it's cooking a
+                                simple meal or hosting friends, we'd love to do it in style!</p>
+                            <footer>
+                                <ul class="buttons">
+                                    <li><a class="button small" href="#">Coming Soon</a></li>
+                                </ul>
+                            </footer>
+                        </section>
+                    </div>
+                </div>
+            </section>
+        </article>
+        <footer id="footer">
+            <!--#include virtual="/includes/footer.shtml"-->
+        </footer>
+    </body>
 </html>

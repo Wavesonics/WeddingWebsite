@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<meta content="text/html; charset=utf-8" http-equiv="content-type">
-		<link href="favicon.ico" rel="icon" type="image/x-icon"/>
+		<link href="favicon.ico" rel="icon" type="image/x-icon">
 		<title>Bram Wedding!</title>
 		<meta name="description" content="">
 		<meta name="keywords" content="">
@@ -31,7 +31,8 @@
 					<h2>adam &amp; Stacy!</h2>
 				</header>
 				<p>We're getting married!</p>
-				<p><br/></p>
+				<p><br>
+				</p>
 				<p>“For small creatures such as we</p>
 				<p>the vastness is bearable only through love.”</p>
 				<p><strong>- Carl Sagan</strong></p>
@@ -54,8 +55,7 @@
 				<h2>Gold Bar, Washington</h2>
 				<p>We will be staying at the lodge
 					<strong>Friday through Monday</strong>
-					with close relatives.<br/>
-					Everyone is welcome and encouraged to stay the whole time!<br>
+					with close relatives.<br>
 					There are
 					<a href="areainfo.shtml">several options for lodging</a>
 					and lots to do in the area.</p>
@@ -178,8 +178,11 @@
 							<header>
 								<h3>So now&nbsp; you're getting married?</h3>
 							</header>
-							<p>Yes! We got engaged at 12,300' on Mt. Rainier as the sun was coming
-								up.&nbsp; It was a beautiful and perfect proposal.</p>
+							<p>Yes!
+								<a href="http://www.dropmocks.com/mFXW2q">We got engaged at 12,300' on
+									Mt. Rainier</a>
+								as the sun was coming up.&nbsp; It was a beautiful and perfect
+								proposal.</p>
 						</section>
 					</div>
 				</div>
@@ -196,8 +199,8 @@
 								New Jersey and attended Plymouth State University, where he met
 								Stacy.&nbsp; He is a software engineer, currently working at Bungie in
 								Bellevue, WA.&nbsp; He loves the outdoors and is an avid hiker, skier
-								and nature lover.&nbsp; He is super handsome and has a sweet, sweet
-								ass.</p>
+								and nature lover.&nbsp;
+							</p>
 						</section>
 					</div>
 					<div class="6u">
@@ -233,7 +236,7 @@
 			</footer>
 		</section>
 		<footer id="footer">
-			<!--#include virtual="/includes/footer.shtml" -->
+			<!--#include virtual="/includes/footer.shtml"-->
 		</footer>
 	</body>
 </html>

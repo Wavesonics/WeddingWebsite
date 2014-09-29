@@ -8,9 +8,9 @@
 					<a href="">Navigation</a>
 					<ul>
 						<li><a href="venue.shtml">Venue</a></li>
-						<li><a href="guestbook.shtml">Guest Book</a></li>
 						<li><a href="areainfo.shtml">Area Info</a></li>
 						<li><a href="registry.shtml">Registry</a></li>
+						<li><a href="guestbook.shtml">Guest Book</a></li>
 						<li><a href="photos.shtml">Photos</a></li>
 					</ul>
 				</li>
